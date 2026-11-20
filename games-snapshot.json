@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795174250094,
+  "updatedAt": 1795174265385,
   "games": [
     {
       "id": "steam-240-1794850862373",
@@ -1367,31 +1367,6 @@
       "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/3884860/library_600x900_2x.jpg",
       "backdrop": "https://shared.steamstatic.com/store_item_assets/steam/apps/3884860/library_600x900_2x.jpg",
       "review": "В темном мире Фейблтауна, где мифы оживают и насилие посылает озноб по спине, каждый шаг детектива Бигби (Большого и Страшного Серого Волка) решает судьбу персонажей, а атмосфера напряжения и предчувствия держит игрока в постоянном ожидании. Глубокий сюжет и яркие персонажи делают игру настоящим шедевром интерактивного повествования, где выбор игрока имеет реальные последствия и влияет на ход истории.",
-      "isLivePlaying": false
-    },
-    {
-      "id": "work-1795174135027",
-      "index": "058",
-      "steamAppId": "3840230",
-      "title": "ADORABLE ADVENTURES",
-      "edition": "Коллекционное издание",
-      "director": "Жан-Филипп Каро",
-      "studio": "Wild Sheep Studio",
-      "year": "2026",
-      "platform": "STEAM / PC",
-      "status": "COMPLETED",
-      "rating": "8",
-      "hours": 40,
-      "trophies": 100,
-      "accent": "#38BDF8",
-      "vibes": [
-        "ПРИКЛЮЧЕНЧЕСКИЕ ИГРЫ",
-        "КАЗУАЛЬНЫЕ ИГРЫ",
-        "ИНДИ"
-      ],
-      "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/3840230/library_600x900_2x.jpg",
-      "backdrop": "https://shared.steamstatic.com/store_item_assets/steam/apps/3840230/library_600x900_2x.jpg",
-      "review": "В игре Adorable Adventures царит атмосфера нежного единения с природой, где каждый шаг Бориса открывает новые красоты и тайны леса. Мир игры полон уюта и чудес, наполняя сердце теплом и спокойствием.",
       "isLivePlaying": false
     }
   ]
