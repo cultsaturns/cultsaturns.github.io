@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795174862089,
+  "updatedAt": 1795174925640,
   "games": [
     {
       "id": "steam-240-1794850862373",
@@ -1381,7 +1381,7 @@
       "platform": "STEAM / PC",
       "status": "COMPLETED",
       "rating": "9.5",
-      "hours": 40,
+      "hours": 8,
       "trophies": 100,
       "accent": "#38BDF8",
       "vibes": [
